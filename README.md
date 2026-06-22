@@ -134,11 +134,10 @@ As a Data Analyst, I view data as a puzzle waiting to be solved. My expertise li
 - **Result:** Successfully normalized 120 row inputs across three provincial clusters.
 #### 2. Visualizations Generated
 *(Embedded High-Contrast Bar Chart showing Cacao Production vs. Climate Outlier Years from 2020-2025)*
-<img width="975" height="406" alt="image" src="https://github.com/user-attachments/assets/26034820-ae74-4a64-8fd1-57eb0450f0f7" />
-
-[Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
 <img width="667" height="371" alt="image" src="https://github.com/user-attachments/assets/3cc28895-9911-47e5-9122-656d3c07220b" />
 
+[Image Matrix: 2020-2025 Mindanao Crop Yield Divergence Graph]
+<img width="975" height="406" alt="image" src="https://github.com/user-attachments/assets/26034820-ae74-4a64-8fd1-57eb0450f0f7" />
  
 #### 3. Human Analytical Narrative (The 'Why' Factor)
 When we look at Mindanao, we often call it the "Food Basket of the Philippines," but a closer look at the data in the image above reveals a more complex, unfolding reality of deep structural divergence between 2020 and 2025. In the baseline years of 2020 and 2021, the agricultural sector maintained a deceptive stability, with high-value commercial export crops like Cavendish bananas and pineapples comfortably averaging yields above 14-15 MT/ha, while traditional staple food crops like palay and corn hovered around a modest but steady 4 MT/ha. However, this predictable pattern fractured between 2022 and 2025 as severe climate disruptions—marked by overlapping La Niña floods and intense El Niño droughts—struck the island, exposing a massive divide in climate resilience. 
