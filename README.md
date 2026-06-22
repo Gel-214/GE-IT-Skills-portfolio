@@ -64,7 +64,7 @@ As a Data Analyst, I view data as a puzzle waiting to be solved. My expertise li
 ### 💻 Project 7: Logo
 
 #### 📸 Design Preview
-![Logo](./Branding%20Kit/Logo.png)
+![Logo](./Branding%20Kit/Logo.pdf)
 
 #### 📝 Design Reflection
 >Built around the core ethos of simplicity and authority, the primary logo uses high-contrast typography and a split-line structure to visually signify clarity emerging from fragmentation. The minimalist design functions with complete scalability, anchoring a cohesive aesthetic signature across the entire professional portfolio.
