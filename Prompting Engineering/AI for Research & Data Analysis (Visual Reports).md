@@ -1,3 +1,18 @@
+| AI Prompt
+
+[Role] You are a Data Analyst attached to a regional development council or an environmental monitoring coalition in Mindanao.
+[Context]Your department has received a disorganized CSV file documenting regional economic trends (e.g., crop yields, local energy production, or municipal waste generation). You have less than an hour to isolate the key metrics, clean out formatting corruptions, and produce highly readable data visualizations for an emergency legislative session.
+[Task]Your goal is to upload a raw, unorganized regional development dataset into an advanced AI data-analysis environment, clean the database structurally, and generate a pair of high-contrast visual trend charts accompanied by a human analytical narrative.
+[Constraints]create an image matrix from 2020-2025 Mindanao crop yield divergence graph and import all of this into a word document
+[Output] An interactive Automated Visual Data Report published directly to your GitHub Portfolio page containing:
+
+1. A summary of the structural adjustments made by the AI during the data cleaning phase.
+
+2. Two embedded analytical data charts.
+
+3. A human-authored explanatory caption linking the data to a specific socio-environmental reality in Mindanao.
+
+
 ### Data Analytics & Visual Report
 
 #### Dataset Focus: Davao Region Agricultural Production Index (Mock CSV Analysis)
